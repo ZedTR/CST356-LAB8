@@ -1,0 +1,4 @@
+INFO  2018-03-09 23:39:12,018 28733ms PetController          Index              - Index, userId: 0e816184-c831-498c-ba2f-87cb5e768d3f
+INFO  2018-03-09 23:39:12,043 28758ms PetController          List               - List, userId: 0e816184-c831-498c-ba2f-87cb5e768d3f
+INFO  2018-03-09 23:39:12,044 28759ms PetService             GetUsersPets       - GetUsersPets, userid: 0e816184-c831-498c-ba2f-87cb5e768d3f
+INFO  2018-03-09 23:39:12,045 28760ms PetRepository          GetUsersPets       - GetUsersPets, userid: 0e816184-c831-498c-ba2f-87cb5e768d3f

@@ -1,0 +1,236 @@
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Lab8\bin\ApplicationInsights.config
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Lab8\bin\Lab8.dll.config
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Lab8\bin\Lab8.dll
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Lab8\bin\Lab8.pdb
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Lab8\bin\Antlr3.Runtime.dll
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Lab8\bin\EntityFramework.dll
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Lab8\bin\EntityFramework.SqlServer.dll
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Lab8\bin\log4net.dll
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Lab8\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Lab8\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Lab8\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Lab8\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Lab8\bin\Microsoft.AI.Web.dll
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Lab8\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Lab8\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Lab8\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Lab8\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Lab8\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Lab8\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Lab8\bin\Microsoft.Owin.dll
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Lab8\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Lab8\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Lab8\bin\Microsoft.Owin.Security.dll
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Lab8\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Lab8\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Lab8\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Lab8\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Lab8\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Lab8\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Lab8\bin\Newtonsoft.Json.dll
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Lab8\bin\Owin.dll
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Lab8\bin\SimpleInjector.dll
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Lab8\bin\SimpleInjector.Integration.Web.dll
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Lab8\bin\SimpleInjector.Integration.Web.Mvc.dll
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Lab8\bin\System.Web.Helpers.dll
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Lab8\bin\System.Web.Mvc.dll
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Lab8\bin\System.Web.Optimization.dll
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Lab8\bin\System.Web.Razor.dll
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Lab8\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Lab8\bin\System.Web.WebPages.dll
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Lab8\bin\System.Web.WebPages.Razor.dll
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Lab8\bin\WebGrease.dll
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Lab8\bin\log4net.xml
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Lab8\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Lab8\bin\SimpleInjector.xml
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Lab8\bin\SimpleInjector.Integration.Web.xml
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Lab8\bin\SimpleInjector.Integration.Web.Mvc.xml
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Lab8\bin\System.Web.Helpers.xml
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Lab8\bin\System.Web.Mvc.xml
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Lab8\bin\System.Web.Optimization.xml
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Lab8\bin\System.Web.Razor.xml
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Lab8\bin\System.Web.WebPages.xml
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Lab8\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Lab8\bin\System.Web.WebPages.Razor.xml
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Lab8\bin\Antlr3.Runtime.pdb
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Lab8\bin\Newtonsoft.Json.xml
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Lab8\bin\EntityFramework.xml
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Lab8\bin\EntityFramework.SqlServer.xml
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Lab8\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Lab8\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Lab8\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Lab8\bin\Microsoft.Owin.xml
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Lab8\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Lab8\bin\Microsoft.Owin.Security.xml
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Lab8\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Lab8\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Lab8\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Lab8\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Lab8\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Lab8\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Lab8\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Lab8\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Lab8\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Lab8\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Lab8\bin\Microsoft.AI.Web.xml
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Lab8\obj\Debug\cst356-lab8.csproj.CoreCompileInputs.cache
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Lab8\obj\Debug\Lab8.dll
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Lab8\obj\Debug\Lab8.pdb
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Lab8\bin\ApplicationInsights.config
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Lab8\bin\Lab8.dll.config
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Lab8\bin\Lab8.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Lab8\bin\Lab8.pdb
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Lab8\bin\Antlr3.Runtime.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Lab8\bin\EntityFramework.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Lab8\bin\EntityFramework.SqlServer.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Lab8\bin\log4net.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Lab8\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Lab8\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Lab8\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Lab8\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Lab8\bin\Microsoft.AI.Web.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Lab8\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Lab8\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Lab8\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Lab8\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Lab8\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Lab8\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Lab8\bin\Microsoft.Owin.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Lab8\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Lab8\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Lab8\bin\Microsoft.Owin.Security.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Lab8\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Lab8\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Lab8\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Lab8\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Lab8\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Lab8\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Lab8\bin\Newtonsoft.Json.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Lab8\bin\Owin.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Lab8\bin\SimpleInjector.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Lab8\bin\SimpleInjector.Integration.Web.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Lab8\bin\SimpleInjector.Integration.Web.Mvc.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Lab8\bin\System.Web.Helpers.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Lab8\bin\System.Web.Mvc.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Lab8\bin\System.Web.Optimization.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Lab8\bin\System.Web.Razor.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Lab8\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Lab8\bin\System.Web.WebPages.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Lab8\bin\System.Web.WebPages.Razor.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Lab8\bin\WebGrease.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Lab8\bin\log4net.xml
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Lab8\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Lab8\bin\SimpleInjector.xml
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Lab8\bin\SimpleInjector.Integration.Web.xml
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Lab8\bin\SimpleInjector.Integration.Web.Mvc.xml
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Lab8\bin\System.Web.Helpers.xml
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Lab8\bin\System.Web.Mvc.xml
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Lab8\bin\System.Web.Optimization.xml
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Lab8\bin\System.Web.Razor.xml
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Lab8\bin\System.Web.WebPages.xml
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Lab8\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Lab8\bin\System.Web.WebPages.Razor.xml
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Lab8\bin\Antlr3.Runtime.pdb
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Lab8\bin\Newtonsoft.Json.xml
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Lab8\bin\EntityFramework.xml
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Lab8\bin\EntityFramework.SqlServer.xml
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Lab8\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Lab8\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Lab8\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Lab8\bin\Microsoft.Owin.xml
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Lab8\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Lab8\bin\Microsoft.Owin.Security.xml
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Lab8\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Lab8\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Lab8\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Lab8\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Lab8\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Lab8\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Lab8\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Lab8\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Lab8\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Lab8\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Lab8\bin\Microsoft.AI.Web.xml
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Lab8\obj\Debug\cst356-lab8.csprojResolveAssemblyReference.cache
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Lab8\obj\Debug\cst356-lab8.csproj.CoreCompileInputs.cache
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Lab8\obj\Debug\Lab8.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Lab8\obj\Debug\Lab8.pdb
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\cst356-lab8\bin\ApplicationInsights.config
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\cst356-lab8\bin\Lab8.dll.config
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\cst356-lab8\bin\Lab8.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\cst356-lab8\bin\Lab8.pdb
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\cst356-lab8\bin\Antlr3.Runtime.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\cst356-lab8\bin\EntityFramework.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\cst356-lab8\bin\EntityFramework.SqlServer.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\cst356-lab8\bin\log4net.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\cst356-lab8\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\cst356-lab8\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\cst356-lab8\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\cst356-lab8\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\cst356-lab8\bin\Microsoft.AI.Web.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\cst356-lab8\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\cst356-lab8\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\cst356-lab8\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\cst356-lab8\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\cst356-lab8\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\cst356-lab8\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\cst356-lab8\bin\Microsoft.Owin.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\cst356-lab8\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\cst356-lab8\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\cst356-lab8\bin\Microsoft.Owin.Security.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\cst356-lab8\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\cst356-lab8\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\cst356-lab8\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\cst356-lab8\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\cst356-lab8\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\cst356-lab8\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\cst356-lab8\bin\Newtonsoft.Json.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\cst356-lab8\bin\Owin.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\cst356-lab8\bin\SimpleInjector.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\cst356-lab8\bin\SimpleInjector.Integration.Web.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\cst356-lab8\bin\SimpleInjector.Integration.Web.Mvc.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\cst356-lab8\bin\System.Web.Helpers.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\cst356-lab8\bin\System.Web.Mvc.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\cst356-lab8\bin\System.Web.Optimization.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\cst356-lab8\bin\System.Web.Razor.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\cst356-lab8\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\cst356-lab8\bin\System.Web.WebPages.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\cst356-lab8\bin\System.Web.WebPages.Razor.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\cst356-lab8\bin\WebGrease.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\cst356-lab8\bin\log4net.xml
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\cst356-lab8\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\cst356-lab8\bin\SimpleInjector.xml
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\cst356-lab8\bin\SimpleInjector.Integration.Web.xml
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\cst356-lab8\bin\SimpleInjector.Integration.Web.Mvc.xml
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\cst356-lab8\bin\System.Web.Helpers.xml
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\cst356-lab8\bin\System.Web.Mvc.xml
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\cst356-lab8\bin\System.Web.Optimization.xml
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\cst356-lab8\bin\System.Web.Razor.xml
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\cst356-lab8\bin\System.Web.WebPages.xml
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\cst356-lab8\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\cst356-lab8\bin\System.Web.WebPages.Razor.xml
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\cst356-lab8\bin\Antlr3.Runtime.pdb
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\cst356-lab8\bin\Newtonsoft.Json.xml
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\cst356-lab8\bin\EntityFramework.xml
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\cst356-lab8\bin\EntityFramework.SqlServer.xml
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\cst356-lab8\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\cst356-lab8\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\cst356-lab8\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\cst356-lab8\bin\Microsoft.Owin.xml
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\cst356-lab8\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\cst356-lab8\bin\Microsoft.Owin.Security.xml
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\cst356-lab8\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\cst356-lab8\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\cst356-lab8\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\cst356-lab8\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\cst356-lab8\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\cst356-lab8\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\cst356-lab8\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\cst356-lab8\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\cst356-lab8\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\cst356-lab8\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\cst356-lab8\bin\Microsoft.AI.Web.xml
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\cst356-lab8\obj\Debug\cst356-lab8.csproj.CoreCompileInputs.cache
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\cst356-lab8\obj\Debug\Lab8.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\cst356-lab8\obj\Debug\Lab8.pdb
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\cst356-lab8\obj\Debug\cst356-lab8.csprojResolveAssemblyReference.cache

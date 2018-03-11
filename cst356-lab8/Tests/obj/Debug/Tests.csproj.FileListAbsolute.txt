@@ -1,0 +1,120 @@
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Tests\bin\Debug\ApplicationInsights.config
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Tests\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Tests\bin\Debug\nunit.engine.dll
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Tests\bin\Debug\nunit.engine.api.dll
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Tests\bin\Debug\Mono.Cecil.dll
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Tests\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Tests\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Tests\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Tests\bin\Debug\Tests.dll.config
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Tests\bin\Debug\Tests.dll
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Tests\bin\Debug\Tests.pdb
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Tests\bin\Debug\FakeItEasy.dll
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Tests\bin\Debug\Lab8.dll
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Tests\bin\Debug\nunit.framework.dll
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Tests\bin\Debug\SimpleInjector.dll
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Tests\bin\Debug\Owin.dll
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Tests\bin\Debug\log4net.dll
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Tests\bin\Debug\EntityFramework.dll
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Tests\bin\Debug\SimpleInjector.Integration.Web.dll
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Tests\bin\Debug\SimpleInjector.Integration.Web.Mvc.dll
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Tests\bin\Debug\Lab8.pdb
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Tests\bin\Debug\Lab8.dll.config
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Tests\bin\Debug\FakeItEasy.pdb
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Tests\bin\Debug\FakeItEasy.xml
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Tests\bin\Debug\nunit.framework.xml
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Tests\bin\Debug\SimpleInjector.xml
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Tests\bin\Debug\log4net.xml
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Tests\bin\Debug\EntityFramework.xml
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Tests\bin\Debug\SimpleInjector.Integration.Web.xml
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Tests\bin\Debug\SimpleInjector.Integration.Web.Mvc.xml
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Tests\obj\Debug\Tests.csproj.CoreCompileInputs.cache
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Tests\obj\Debug\Tests.dll
+C:\Users\Zed\Desktop\Week 8 Lab\Lab8\Tests\obj\Debug\Tests.pdb
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Tests\bin\Debug\ApplicationInsights.config
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Tests\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Tests\bin\Debug\nunit.engine.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Tests\bin\Debug\nunit.engine.api.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Tests\bin\Debug\Mono.Cecil.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Tests\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Tests\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Tests\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Tests\bin\Debug\Tests.dll.config
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Tests\bin\Debug\Tests.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Tests\bin\Debug\Tests.pdb
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Tests\bin\Debug\FakeItEasy.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Tests\bin\Debug\Lab8.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Tests\bin\Debug\nunit.framework.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Tests\bin\Debug\SimpleInjector.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Tests\bin\Debug\Owin.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Tests\bin\Debug\EntityFramework.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Tests\bin\Debug\SimpleInjector.Integration.Web.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Tests\bin\Debug\SimpleInjector.Integration.Web.Mvc.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Tests\bin\Debug\Lab8.pdb
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Tests\bin\Debug\Lab8.dll.config
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Tests\bin\Debug\FakeItEasy.pdb
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Tests\bin\Debug\FakeItEasy.xml
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Tests\bin\Debug\nunit.framework.xml
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Tests\bin\Debug\SimpleInjector.xml
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Tests\bin\Debug\EntityFramework.xml
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Tests\bin\Debug\SimpleInjector.Integration.Web.xml
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Tests\bin\Debug\SimpleInjector.Integration.Web.Mvc.xml
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Tests\obj\Debug\Tests.csproj.CoreCompileInputs.cache
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Tests\obj\Debug\Tests.dll
+C:\Users\Zed\Desktop\CST356-LAB8-ZedTrzcinski\cst356-lab8\Tests\obj\Debug\Tests.pdb
